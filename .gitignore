@@ -1,0 +1,8 @@
+# Binary files
+*.elf 
+*.hex 
+*.bin
+
+# compiled files
+*.o
+*.a
