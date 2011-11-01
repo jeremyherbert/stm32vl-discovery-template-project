@@ -1,6 +1,6 @@
 # Binary files
-*.elf 
-*.hex 
+*.elf
+*.hex
 *.bin
 
 # compiled files
