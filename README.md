@@ -7,7 +7,7 @@ Getting it to work:
 1.  Summon the arm toolchain ([look here](https://github.com/esden/summon-arm-toolchain))
 2.  Clone this repo
 3.  Run `make`
-4.  Use your favourite tool to get the ELF onto the board (I use ST Visual Programmer in a windows VM, trying to get [stlink](https://github.com/texane/stlink) working, but it's pretty buggy for STLINKv1)
+4.  Use your favourite tool to get the ELF onto the board (I use ST Visual Programmer in a windows VM, trying to get [stlink](https://github.com/texane/stlink) working but it's pretty buggy for STLINKv1)
 
 Using it for your own projects:
 
